@@ -1,0 +1,46 @@
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.deps.json
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.pdb
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\bin\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\bin\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.csproj.AssemblyReference.cache
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.AssemblyInfoInputs.cache
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.AssemblyInfo.cs
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.csproj.CoreCompileInputs.cache
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.sourcelink.json
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\DDDExamp.2A6DDB36.Up2Date
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\refint\DDDExample.Application.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.pdb
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Application\obj\Debug\net9.0\ref\DDDExample.Application.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\obj\Debug\net9.0\refint\DDDExample.Application.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.deps.json
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\bin\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\bin\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.csproj.AssemblyReference.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.AssemblyInfoInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.AssemblyInfo.cs
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\obj\Debug\net9.0\DDDExamp.2A6DDB36.Up2Date
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Application\obj\Debug\net9.0\ref\DDDExample.Application.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.deps.json
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\bin\Debug\net9.0\DDDExample.Application.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\bin\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\bin\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.csproj.AssemblyReference.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.AssemblyInfoInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.AssemblyInfo.cs
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\obj\Debug\net9.0\DDDExamp.2A6DDB36.Up2Date
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\obj\Debug\net9.0\refint\DDDExample.Application.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\obj\Debug\net9.0\DDDExample.Application.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Application\obj\Debug\net9.0\ref\DDDExample.Application.dll

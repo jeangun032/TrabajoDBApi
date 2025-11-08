@@ -1,0 +1,45 @@
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Infrastructure.deps.json
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Infrastructure.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Infrastructure.pdb
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Application.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Application.pdb
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.AssemblyInfo.cs
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.sourcelink.json
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExamp.BF0ADCC9.Up2Date
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\refint\DDDExample.Infrastructure.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.pdb
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Infrastructure\obj\Debug\net9.0\ref\DDDExample.Infrastructure.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Infrastructure\obj\Debug\net9.0\refint\DDDExample.Infrastructure.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.AssemblyInfo.cs
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.AssemblyInfo.cs
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\refint\DDDExample.Infrastructure.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Infrastructure.deps.json
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Infrastructure.runtimeconfig.json
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Infrastructure.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Infrastructure.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Application.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\bin\Debug\net9.0\DDDExample.Application.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExamp.BF0ADCC9.Up2Date
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\DDDExample.Infrastructure.genruntimeconfig.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Infrastructure\obj\Debug\net9.0\ref\DDDExample.Infrastructure.dll

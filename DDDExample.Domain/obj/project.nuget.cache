@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ctQiF46cVU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inspiron15z-5523\\Downloads\\TrabajoPrac_DBApi-main\\DDDExample.Domain\\DDDExample.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inspiron15z-5523\\.nuget\\packages\\mongodb.bson\\3.5.0\\mongodb.bson.3.5.0.nupkg.sha512",
+    "C:\\Users\\Inspiron15z-5523\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Inspiron15z-5523\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

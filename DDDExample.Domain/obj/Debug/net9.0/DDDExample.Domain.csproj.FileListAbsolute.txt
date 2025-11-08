@@ -1,0 +1,37 @@
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.deps.json
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.AssemblyInfoInputs.cache
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.AssemblyInfo.cs
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.sourcelink.json
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\obj\Debug\net9.0\refint\DDDExample.Domain.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\obj\Debug\net9.0\ref\DDDExample.Domain.dll
+C:\Users\Isaias\Downloads\Trabajo de Isaias\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.csproj.AssemblyReference.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.csproj.AssemblyReference.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.AssemblyInfoInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.AssemblyInfo.cs
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\obj\Debug\net9.0\refint\DDDExample.Domain.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.deps.json
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi\DDDExample.Domain\obj\Debug\net9.0\ref\DDDExample.Domain.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.deps.json
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\bin\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.csproj.AssemblyReference.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.AssemblyInfoInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.AssemblyInfo.cs
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\obj\Debug\net9.0\refint\DDDExample.Domain.dll
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\obj\Debug\net9.0\DDDExample.Domain.pdb
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Domain\obj\Debug\net9.0\ref\DDDExample.Domain.dll

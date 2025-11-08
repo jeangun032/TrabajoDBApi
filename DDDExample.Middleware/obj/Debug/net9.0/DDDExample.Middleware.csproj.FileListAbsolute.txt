@@ -1,0 +1,5 @@
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Middleware\obj\Debug\net9.0\DDDExample.Middleware.csproj.AssemblyReference.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Middleware\obj\Debug\net9.0\DDDExample.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Middleware\obj\Debug\net9.0\DDDExample.Middleware.AssemblyInfoInputs.cache
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Middleware\obj\Debug\net9.0\DDDExample.Middleware.AssemblyInfo.cs
+C:\Users\Inspiron15z-5523\Downloads\TrabajoPrac_DBApi-main\DDDExample.Middleware\obj\Debug\net9.0\DDDExample.Middleware.csproj.CoreCompileInputs.cache
